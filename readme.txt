@@ -13,7 +13,7 @@ jar -cvf server.jar _02discard\*.class
 # update MANIFEST file
 jar umf main server.jar
 
-# update MANIFEST file
+# update MANIFEST info
 jar uef main server.jar
 
 # run jar 
