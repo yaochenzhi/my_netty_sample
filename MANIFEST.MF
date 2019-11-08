@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: _02discard.DiscardServer
+Class-Path: lib\netty-all-5.0.0.Alpha2.jar
+Created-By: 10.0.2 (Oracle Corporation)
+
